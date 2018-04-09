@@ -1,0 +1,108 @@
+{
+margin: 0 auto;
+padding: 0 auto;
+
+}
+
+html{
+ background-color: white;
+ font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+	margin-top: 20px;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+
+.firstbody {
+	border-top: 1px solid black;
+	padding: 25px 25px;
+	margin: 25px 25px;
+	color: #404040;
+	max-width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 1.5;
+}
+
+.form {
+    text-align: center;
+ 	border: 1px solid #000000;
+ 	border-radius: 4px;
+ 	box-sizing: border-box;
+    background-color: #D3D3D3;
+    height: 200px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    max-width: 100%;
+}
+
+label {
+	display: block;
+	padding-top: 10px;
+}
+
+button {
+	margin-top: 20px;
+    background-color: #00cc66;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.secondbody {
+	border-bottom: 1px solid black;
+	padding: 25px 25px;
+	margin: 25px 25px;
+	color: #404040;
+	max-width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 1.5;
+}
+
+
+footer{
+  clear: both;
+  background-color: #00cc66;
+  color: #ffffff;
+  letter-spacing: 1px;
+  width: 100% auto;
+  padding: 40px 0 30px 0;
+	margin-top: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+@media screen and (min-width:320px) and (min-width: 600px)
